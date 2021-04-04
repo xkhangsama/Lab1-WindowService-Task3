@@ -1,8 +1,0 @@
-C:\Users\xkhan\source\repos\UITService3\UITService3\bin\Debug\UITService3.exe.config
-C:\Users\xkhan\source\repos\UITService3\UITService3\bin\Debug\UITService3.exe
-C:\Users\xkhan\source\repos\UITService3\UITService3\bin\Debug\UITService3.pdb
-C:\Users\xkhan\source\repos\UITService3\UITService3\obj\Debug\UITService3.ProjectInstaller.resources
-C:\Users\xkhan\source\repos\UITService3\UITService3\obj\Debug\UITService3.csproj.GenerateResource.cache
-C:\Users\xkhan\source\repos\UITService3\UITService3\obj\Debug\UITService3.csproj.CoreCompileInputs.cache
-C:\Users\xkhan\source\repos\UITService3\UITService3\obj\Debug\UITService3.exe
-C:\Users\xkhan\source\repos\UITService3\UITService3\obj\Debug\UITService3.pdb
